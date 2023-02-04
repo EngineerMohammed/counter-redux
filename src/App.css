@@ -1,0 +1,16 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    margin: 10px;
+    padding :5px;
+    font-size: 20px;
+    color : red;
+    z-index: 2; 
+}
+.counter{
+    font-Size: 20px;
+}
